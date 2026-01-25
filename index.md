@@ -12,7 +12,6 @@ Automatically visualize scene references, detect circular dependencies, and esti
 {: .fs-6 .fw-300 }
 
 [Get Started Now](./docs/getting-started.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Asset Store](https://assetstore.unity.com){: .btn .fs-5 .mb-4 .mb-md-0 }
-
 ---
 
 ## 🛑 The Pain: Hidden Dependencies Kill Projects
