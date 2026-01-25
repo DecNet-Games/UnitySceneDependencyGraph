@@ -3,7 +3,7 @@ description: A powerful visual tool for Unity Developers to analyze scene depend
 theme: just-the-docs
 
 url: https://DecNet-Games.github.io
-baseurl: /PlayModeSaver-doc
+baseurl: /UnitySceneDependencyGraph
 
 aux_links:
   Asset Store: https://assetstore.unity.com
