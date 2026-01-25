@@ -1,6 +1,10 @@
 title: Unity Scene Dependency Graph
 description: A powerful visual tool for Unity Developers to analyze scene dependencies, detect performance bottlenecks before runtime, and prevent circular dependency issues.
-theme: just-the-docs
+# theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 
 url: https://DecNet-Games.github.io
 baseurl: /UnitySceneDependencyGraph
