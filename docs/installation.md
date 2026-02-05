@@ -38,7 +38,7 @@ You can access it via the menu:
 
 *   **Tools > Dependency Graph Analyzer > Open Graph Window**
 
-![Menu Location](/assets/images/menu_loc.png)
+![Menu Location](/inter..png)
 
 ---
 
