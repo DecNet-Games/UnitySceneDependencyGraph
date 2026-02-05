@@ -15,7 +15,7 @@ After installation, the tool is available in the top menu bar.
 
 *   Go to **Tools > Dependency Graph Analyzer > Open Graph Window**.
 
-![Menu Location](/assets/images/menu_loc.png)
+![Menu Location](/getting.png)
 *(Note: Screenshot placeholder)*
 
 ## 2. Scan Your Active Scene
